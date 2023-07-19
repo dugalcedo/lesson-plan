@@ -1,9 +1,3 @@
-// @prefix edu:lesson-plan
-// @description 
-
-// @prefix edu:lesson-plan
-// @description 
-
 # Doug's essential front-end webdev course
 
 ## HTML
