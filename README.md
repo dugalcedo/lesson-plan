@@ -29,9 +29,12 @@
 ### Intermediate CSS
 
 - [ ] Pseudo-classes I (:hover, :focus)
-- [ ] Flex 👑
-- [ ] Grid 👑
-- [ ] Position 👑
+- [ ] FLEX 👑
+- [ ] GRID 👑
+- [ ] POSITION 👑
+- [ ] z-index
+
+(👑 = the holy trinity of CSS)
 
 ### Other CSS
 
@@ -39,6 +42,8 @@
 - [ ] Attribute selectors
 - [ ] Combinators II (siblings)
 - [ ] Responsive design & media queries
+- [ ] math functions
+- [ ] float
 
 ## Javascript
 
@@ -53,8 +58,8 @@
 - [ ] logical operators (&&, ||, and !)
 - [ ] Math
 - [ ] for loops
-- 🐧 while loops & do-while loops
-- 🐧 for-in & for-of
+- [🐧] while loops & do-while loops
+- [🐧] for-in & for-of
 - [ ] arrays
 - [ ] array methods I (pop, push, shift, unshift, splice)
 - [ ] looping through an array
